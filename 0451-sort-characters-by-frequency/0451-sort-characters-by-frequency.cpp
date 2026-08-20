@@ -2,34 +2,27 @@ class Solution {
 public:
     string frequencySort(string s) {
         int freq[256] = {0};
-
-        for (char c : s) {
+        for(char c:s){
             freq[c]++;
+
         }
+string ans="";
+ for (int i = 0; i < s.length(); i++) {
+            int mx = 0, ch = 0;
 
-        string ans = "";
-
-        for (int k = 0; k < s.length(); k++) {
-            int maxFreq = 0;
-            char maxChar = 0;
-
-            for (int i = 0; i < 256; i++) {
-                if (freq[i] > maxFreq) {
-                    maxFreq = freq[i];
-                    maxChar = char(i);
+            for (int j = 0; j < 256; j++) {
+                if (freq[j] > mx) {
+                    mx = freq[j];
+                    ch = j;
                 }
             }
 
-            if (maxFreq == 0)
-                break;
+            for (int j = 0; j < mx; j++)
+                ans += ch;
 
-            for (int i = 0; i < maxFreq; i++) {
-                ans += maxChar;
-            }
-
-            freq[maxChar] = 0;
+            freq[ch] = 0;
         }
-
         return ans;
+      
     }
 };
