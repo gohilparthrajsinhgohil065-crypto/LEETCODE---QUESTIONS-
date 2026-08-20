@@ -6,7 +6,7 @@ public:
             freq[c]++;
 
         }
-string ans="";
+            string  ans="";
  for (int i = 0; i < s.length(); i++) {
             int mx = 0, ch = 0;
 
