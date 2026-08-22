@@ -21,13 +21,6 @@ public:
                 hi = mid - 1 ;
             }
         }
-    
-    
-    
-    
-    
-
-    
       lo = 0, hi = n - 1;
         while(lo <= hi){
             int mid = lo + (hi - lo) / 2;
