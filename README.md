@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0451-sort-characters-by-frequency) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
