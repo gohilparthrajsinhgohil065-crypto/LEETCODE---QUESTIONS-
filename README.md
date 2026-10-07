@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0812-largest-triangle-area) |
+| [2396-strictly-palindromic-number](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Geometry
 |  |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0011-container-with-most-water) |
+| [2396-strictly-palindromic-number](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0098-validate-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
