@@ -95,6 +95,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -110,6 +111,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0098-validate-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Brainteaser
 |  |
