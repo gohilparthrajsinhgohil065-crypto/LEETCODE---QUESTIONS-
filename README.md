@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0263-ugly-number) |
 | [0812-largest-triangle-area](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0812-largest-triangle-area) |
 | [2396-strictly-palindromic-number](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/3875-construct-uniform-parity-array-i) |
