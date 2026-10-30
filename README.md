@@ -43,6 +43,7 @@
 | [0997-find-the-town-judge](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/1672-richest-customer-wealth) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
@@ -254,6 +255,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
