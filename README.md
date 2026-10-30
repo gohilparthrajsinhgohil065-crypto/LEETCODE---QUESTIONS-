@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0008-string-to-integer-atoi) |
+| [0065-valid-number](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0065-valid-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
