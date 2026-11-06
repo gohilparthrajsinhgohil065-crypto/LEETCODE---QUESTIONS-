@@ -19,6 +19,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0015-3sum) |
 | [0451-sort-characters-by-frequency](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0035-search-insert-position) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0015-3sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2396-strictly-palindromic-number](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
