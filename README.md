@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0133-clone-graph) |
+| [0229-majority-element-ii](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0997-find-the-town-judge) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0015-3sum](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -33,6 +35,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0451-sort-characters-by-frequency) |
 ## Array
 |  |
@@ -48,6 +51,7 @@
 | [0073-set-matrix-zeroes](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0229-majority-element-ii](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0812-largest-triangle-area) |
 | [0997-find-the-town-judge](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0997-find-the-town-judge) |
@@ -292,4 +296,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gohilparthrajsinhgohil065-crypto/LEETCODE---QUESTIONS-/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
